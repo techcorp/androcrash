@@ -42,9 +42,9 @@ The tool features a simple and user-friendly interface and was developed by **Te
 
 ### Running the Tool
 Run the tool from the terminal:
-  ```bash
-  ./androcrash.sh
-  ```
+   ```bash
+   ./androcrash.sh
+   ```
 
 ---
 
